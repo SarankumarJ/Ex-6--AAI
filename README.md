@@ -20,6 +20,7 @@ Step 5:Iterate through each word in the tokenized text.<br>
 
 ## PROGRAM
 ```python
+import csv
 import nltk
 from nltk.corpus import wordnet
 
